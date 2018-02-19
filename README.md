@@ -20,4 +20,4 @@ Use variational autoencoder to generate random picture.
 ### Acknowledgments
 [SherlockLiao](https://github.com/SherlockLiao/pytorch-beginner)
 
-[Roman Trusov](https://github.com/Lextal/pspnet-pytorch)
+[Roman Trusov](https://github.com/Lextal/pspnet-pytorch/blob/master/augmentation.py)
